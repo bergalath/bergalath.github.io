@@ -12,8 +12,19 @@ body {
 
 .container {
   width: 90%;
+  max-width: 790px;
+  margin: 0 auto;
+}
+
+.container h3 {
+  text-align: center;
+}
+
+.header {
+  width: 90%;
   max-width: 600px;
   margin: 0 auto;
+  text-align: center;
 }
 
 section, aside {
